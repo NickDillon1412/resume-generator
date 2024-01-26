@@ -14,7 +14,7 @@
     @vite(['resources/js/app.js', 'resources/css/app.css'])
 </head>
 
-<body class="font-sans antialiased min-h-screen">
+<body class="antialiased min-h-screen">
     <div class="mx-auto p-16 bg-white max-w-[925px]">
         <h1 class="font-bold text-center text-4xl">Nick Dillon</h1>
 
@@ -59,7 +59,7 @@
                 </p>
             </div>
 
-            <hr class="w-3/4 mx-auto">
+            <hr class="w-[85%] mx-auto">
 
             {{-- Work Experience --}}
             <div>
@@ -110,7 +110,7 @@
                 </div>
             </div>
 
-            <hr class="w-3/4 mx-auto">
+            <hr class="w-[85%] mx-auto">
 
             {{-- Recent Projects --}}
             <div>
@@ -156,7 +156,7 @@
                 </div>
             </div>
 
-            <hr class="w-3/4 mx-auto">
+            <hr class="w-[85%] mx-auto">
 
             {{-- Other Skills & Interest --}}
             <div>
@@ -166,7 +166,7 @@
                 </p>
             </div>
 
-            <hr class="w-3/4 mx-auto">
+            <hr class="w-[85%] mx-auto">
 
             {{-- Education --}}
             <div>
